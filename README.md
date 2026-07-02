@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Janamolla Srikar Reddy
 
-<!--
-**srikarreddy1030/srikarreddy1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Java
+- Data Structures & Algorithms
+- SQL
+- Java Development
+
+## 🛠️ Skills
+- Java
+- SQL
+- HTML
+- CSS
+- Git & GitHub
+
+## 🚀 Projects
+- Student Management System
+- Smart AI Resume Analyzer
+- UPI Fraud Transaction Detection
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/janamolla-srikar-reddy-b15240298/
+- Email: srikarreddy1030@gmail.com
