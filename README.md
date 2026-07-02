@@ -24,4 +24,5 @@
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/janamolla-srikar-reddy-b15240298/
+- Resume: file:///C:/Users/srika/48-52/my%20resumes/srikar-resume.pdf
 - Email: srikarreddy1030@gmail.com
